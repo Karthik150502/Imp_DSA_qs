@@ -1,0 +1,1 @@
+print(float('infinity') - 23 < float('infinity') - 10)
